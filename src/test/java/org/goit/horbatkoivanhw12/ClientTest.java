@@ -3,6 +3,7 @@ package org.goit.horbatkoivanhw12;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
+import org.goit.horbatkoivanhw12.entities.Client;
 import org.junit.jupiter.api.Test;
 
 class ClientTest {

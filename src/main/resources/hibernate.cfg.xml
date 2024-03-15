@@ -15,8 +15,8 @@
     <property name="hibernate.show_sql">true</property>
     <property name="hibernate.format_sql">true</property>
 
-    <mapping class="org.goit.horbatkoivanhw12.Client"/>
-    <mapping class="org.goit.horbatkoivanhw12.Planet"/>
-    <mapping class="org.goit.horbatkoivanhw12.Ticket"/>
+    <mapping class="org.goit.horbatkoivanhw12.entities.Client"/>
+    <mapping class="org.goit.horbatkoivanhw12.entities.Planet"/>
+    <mapping class="org.goit.horbatkoivanhw12.entities.Ticket"/>
   </session-factory>
 </hibernate-configuration>
